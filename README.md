@@ -2,8 +2,15 @@
 
 ### Downloading repository
 
-Ater cloning repository, you need to download following libraries.
+You can remotely clone repository by using folliwing command.
+
+```
+git clone 
+```
+
+After cloning repository, you need to download following libraries.
 
 ```
 pip install pygame
+pip install pygame-widgets
 ```
