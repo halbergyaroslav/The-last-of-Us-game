@@ -22,3 +22,5 @@ To start the game, ```main.py``` file should be executed.
 ```
 python main.py
 ```
+
+We wish you interesting gameplay!
